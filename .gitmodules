@@ -1,0 +1,3 @@
+[submodule "repositoryA"]
+	path = repositoryA
+	url = https://github.com/fatimashahroor/repoA.git
