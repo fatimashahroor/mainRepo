@@ -1,0 +1,5 @@
+settings:
+  server:
+    connected: false
+  logging:
+    username: true
